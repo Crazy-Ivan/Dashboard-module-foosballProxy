@@ -1,0 +1,9 @@
+{
+    "name": "foosballProxy",
+    "version": "0.0.1",
+    "main": "foosballProxy.js",
+    "private": true,
+    "plugin": {
+        "consumes": ["socketClient", "data", "logger"]
+    }
+}

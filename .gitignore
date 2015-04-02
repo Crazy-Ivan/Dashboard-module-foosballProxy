@@ -1,0 +1,4 @@
+#ignore catalogs
+.idea/
+node_modules/
+!.gitignore
